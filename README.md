@@ -1,6 +1,4 @@
-# w251 Spring 2023 Final Project
-
-## 6DoF Multi-Object Pose Estimation
+# 6DoF Multi-Object Pose Estimation
 #### Team Casey Hsiung, Daniele Grandi, Evan Fjeld, Mon Young, Preethi Raju
 
 ### Links
